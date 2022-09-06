@@ -27317,7 +27317,7 @@ const mainTopPagePCData = {
         columnNumber: 16
     }, undefined),
     hj_Photo_Round: "/img/hj-photo-round@1x.png",
-    sh_Photo_Round: "/img/sh-photo-round@1x.png",
+    sh_Photo_Round: "/img/sh-photo-round-1@1x.png",
     sdGothicNeoBold4814: "권형준",
     sdGothicNeoBold4815: "정세현",
     sdGothicNeoBold4816: "CEO / Business Development",
@@ -27462,7 +27462,7 @@ const mainTopPageMobileData = {
     sdGothicNeoBold4813: "About us",
     sdGothicNeoBold4814: "POSTLAB은 커머스를 시작으로 디지털 시대에 다양한 분야에서 발생하는 불필요한 단순노동과 시간 소모를 없애고 혁신적인 서비스와 기술을 통해 여러분이 당연히 누려야 할 가치를 전달하고자 합니다.",
     hj_Photo_Round: "/img/hj-photo-round@1x.png",
-    sh_Photo_Round: "/img/sh-photo-round@1x.png",
+    sh_Photo_Round: "/img/sh-photo-round-1@1x.png",
     sdGothicNeoBold4815: "권형준",
     sdGothicNeoBold4816: "CEO / Business Development",
     sdGothicNeoBold4817: "Life is Cozy!",
@@ -27629,7 +27629,7 @@ const mainTopPagePC2Data = {
         columnNumber: 16
     }, undefined),
     hj_Photo_Round: "/img/hj-photo-round@1x.png",
-    sh_Photo_Round: "/img/sh-photo-round@1x.png",
+    sh_Photo_Round: "/img/sh-photo-round-1@1x.png",
     sdGothicNeoBold4814: "권형준",
     sdGothicNeoBold4815: "정세현",
     sdGothicNeoBold4816: "CEO / Business Development",
@@ -27637,6 +27637,7 @@ const mainTopPagePC2Data = {
     sdGothicNeoBold4818: "Life is Cozy!",
     sdGothicNeoBold4819: "Life is Cool!",
     footer: "/img/-footer@1x.png",
+    footerBig: footerData,
     gNB22Props: gNB222Data
 };
 const view5Data = {
@@ -27656,20 +27657,20 @@ const mainTopPagePC4Data = {
             "더 이상 내게 맞는",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 219,
+                lineNumber: 220,
                 columnNumber: 51
             }, undefined),
             "할인 혜택을 찾기 위해",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 219,
+                lineNumber: 220,
                 columnNumber: 69
             }, undefined),
             "고민하지 말아요"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 219,
+        lineNumber: 220,
         columnNumber: 25
     }, undefined),
     sdGothicNeoBold482: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
@@ -27677,14 +27678,14 @@ const mainTopPagePC4Data = {
             "왜 내가 사고 싶은 제품은",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 220,
+                lineNumber: 221,
                 columnNumber: 55
             }, undefined),
             "항상 할인하고 나서 알게 될까?"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 220,
+        lineNumber: 221,
         columnNumber: 25
     }, undefined),
     sdGothicNeoBold483: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
@@ -27692,14 +27693,14 @@ const mainTopPagePC4Data = {
             "에어팟도 사고 싶고, 예쁜 옷도 사고 싶고, 맛있는 것도 먹고 싶은데",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 221,
+                lineNumber: 222,
                 columnNumber: 79
             }, undefined),
             "내가 사고 싶은 것들은 맨날 할인이 끝나고 나서야 알게 되던데..."
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 221,
+        lineNumber: 222,
         columnNumber: 25
     }, undefined),
     sdGothicNeoBold484: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
@@ -27707,14 +27708,14 @@ const mainTopPagePC4Data = {
             "다들 할인을 한다는데",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 222,
+                lineNumber: 223,
                 columnNumber: 52
             }, undefined),
             "여기가 제일 싼 게 맞을까?"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 222,
+        lineNumber: 223,
         columnNumber: 25
     }, undefined),
     sdGothicNeoBold485: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
@@ -27722,14 +27723,14 @@ const mainTopPagePC4Data = {
             "찾다 보니 검색창은 여러 개 띄워져 있고 계산은 복잡하기만 한데.",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 223,
+                lineNumber: 224,
                 columnNumber: 77
             }, undefined),
             "여기서 사는 게 제일 싼 건지, 저기서 사는 게 제일 싼 건지, 발품 좀 그만 팔고 싶은데..."
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 223,
+        lineNumber: 224,
         columnNumber: 25
     }, undefined),
     sdGothicNeoBold486: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
@@ -27737,14 +27738,14 @@ const mainTopPagePC4Data = {
             "왜 할인 혜택이 있다면서",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 224,
+                lineNumber: 225,
                 columnNumber: 54
             }, undefined),
             "나는 적용받지 못할까?"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 224,
+        lineNumber: 225,
         columnNumber: 25
     }, undefined),
     sdGothicNeoBold487: "내 지갑 속에 숨어있는 많은 카드들, 그리고 내가 가입한 멤버십, 매일매일 푸시로 뜨는 쿠폰들, 하지만 내가 사고 싶은 물건은 언제나 안되던데...",
@@ -27757,14 +27758,14 @@ const mainTopPagePC4Data = {
             "플랫폼에 숨어있는 할인 혜택을 찾고",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 230,
+                lineNumber: 231,
                 columnNumber: 61
             }, undefined),
             "개개인에 맞춰서 보여드릴게요."
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 230,
+        lineNumber: 231,
         columnNumber: 26
     }, undefined),
     spanText3: "100",
@@ -27780,14 +27781,14 @@ const mainTopPagePC4Data = {
             "은 커머스를 시작으로 디지털 시대에 다양한 분야에서 발생하는 불필요한 단순노동과",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 239,
+                lineNumber: 240,
                 columnNumber: 76
             }, undefined),
             "시간 소모를 없애고 혁신적인 서비스와 기술을 통해 여러분이 당연히 누려야 할 가치를 전달하고자 합니다."
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 239,
+        lineNumber: 240,
         columnNumber: 16
     }, undefined),
     hj_Photo_Round: "/img/hj-photo-round-1@1x.png",
@@ -30855,8 +30856,10 @@ var _styledComponents = require("styled-components");
 var _styledComponentsDefault = parcelHelpers.interopDefault(_styledComponents);
 var _styledMixins = require("../../styledMixins");
 var _mainTopPagePCCss = require("./MainTopPagePC.css");
+var _footerBig = require("../FooterBig");
+var _footerBigDefault = parcelHelpers.interopDefault(_footerBig);
 function MainTopPagePC(props) {
-    const { image1 , sdGothicNeoBold481 , sdGothicNeoBold482 , sdGothicNeoBold483 , image2 , sdGothicNeoBold484 , sdGothicNeoBold485 , image3 , sdGothicNeoBold486 , sdGothicNeoBold487 , image4 , sdGothicNeoBold488 , spanText1 , spanText2 , sdGothicNeoBold489 , sdGothicNeoBold4810 , spanText3 , spanText4 , sdGothicNeoBold4811 , sdGothicNeoBold4812 , overlapGroup1 , spanText5 , spanText6 , sdGothicNeoBold4813 , spanText7 , spanText8 , hj_Photo_Round , sh_Photo_Round , sdGothicNeoBold4814 , sdGothicNeoBold4815 , sdGothicNeoBold4816 , sdGothicNeoBold4817 , sdGothicNeoBold4818 , sdGothicNeoBold4819 , footer , gNB22Props ,  } = props;
+    const { image1 , sdGothicNeoBold481 , sdGothicNeoBold482 , sdGothicNeoBold483 , image2 , sdGothicNeoBold484 , sdGothicNeoBold485 , image3 , sdGothicNeoBold486 , sdGothicNeoBold487 , image4 , sdGothicNeoBold488 , spanText1 , spanText2 , sdGothicNeoBold489 , sdGothicNeoBold4810 , spanText3 , spanText4 , sdGothicNeoBold4811 , sdGothicNeoBold4812 , overlapGroup1 , spanText5 , spanText6 , sdGothicNeoBold4813 , spanText7 , spanText8 , hj_Photo_Round , sh_Photo_Round , sdGothicNeoBold4814 , sdGothicNeoBold4815 , sdGothicNeoBold4816 , sdGothicNeoBold4817 , sdGothicNeoBold4818 , sdGothicNeoBold4819 , footer , footerBig , gNB22Props ,  } = props;
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "container-center-horizontal",
         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -30868,14 +30871,14 @@ function MainTopPagePC(props) {
                             src: image1
                         }, void 0, false, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 65,
+                            lineNumber: 67,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold48, {
                             children: sdGothicNeoBold481
                         }, void 0, false, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 66,
+                            lineNumber: 68,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _gnb22Default.default), {
@@ -30883,13 +30886,13 @@ function MainTopPagePC(props) {
                             view2Props: gNB22Props.view2Props
                         }, void 0, false, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 67,
+                            lineNumber: 69,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "components/MainTopPagePC/index.jsx",
-                    lineNumber: 64,
+                    lineNumber: 66,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexRow, {
@@ -30900,41 +30903,41 @@ function MainTopPagePC(props) {
                                     children: sdGothicNeoBold482
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 71,
+                                    lineNumber: 73,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold482, {
                                     children: sdGothicNeoBold483
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 72,
+                                    lineNumber: 74,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Image1, {
                                     src: image2
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 73,
+                                    lineNumber: 75,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold483, {
                                     children: sdGothicNeoBold484
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 74,
+                                    lineNumber: 76,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold484, {
                                     children: sdGothicNeoBold485
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 75,
+                                    lineNumber: 77,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 70,
+                            lineNumber: 72,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexCol1, {
@@ -30943,40 +30946,40 @@ function MainTopPagePC(props) {
                                     src: image3
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 78,
+                                    lineNumber: 80,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold485, {
                                     children: sdGothicNeoBold486
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 79,
+                                    lineNumber: 81,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold484, {
                                     children: sdGothicNeoBold487
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 80,
+                                    lineNumber: 82,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Image3, {
                                     src: image4
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 81,
+                                    lineNumber: 83,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 77,
+                            lineNumber: 79,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "components/MainTopPagePC/index.jsx",
-                    lineNumber: 69,
+                    lineNumber: 71,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexCol2, {
@@ -30985,7 +30988,7 @@ function MainTopPagePC(props) {
                             children: sdGothicNeoBold488
                         }, void 0, false, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 85,
+                            lineNumber: 87,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold487, {
@@ -30994,20 +30997,20 @@ function MainTopPagePC(props) {
                                     children: spanText1
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 87,
+                                    lineNumber: 89,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Span1, {
                                     children: spanText2
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 88,
+                                    lineNumber: 90,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 86,
+                            lineNumber: 88,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexRow1, {
@@ -31016,7 +31019,7 @@ function MainTopPagePC(props) {
                                     src: "/img/mock-up@1x.svg"
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 91,
+                                    lineNumber: 93,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexCol3, {
@@ -31025,14 +31028,14 @@ function MainTopPagePC(props) {
                                             children: sdGothicNeoBold489
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC/index.jsx",
-                                            lineNumber: 93,
+                                            lineNumber: 95,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold489, {
                                             children: sdGothicNeoBold4810
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC/index.jsx",
-                                            lineNumber: 94,
+                                            lineNumber: 96,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexRow2, {
@@ -31041,7 +31044,7 @@ function MainTopPagePC(props) {
                                                     src: "/img/check-24@2x.svg"
                                                 }, void 0, false, {
                                                     fileName: "components/MainTopPagePC/index.jsx",
-                                                    lineNumber: 96,
+                                                    lineNumber: 98,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4810, {
@@ -31050,26 +31053,26 @@ function MainTopPagePC(props) {
                                                             children: spanText3
                                                         }, void 0, false, {
                                                             fileName: "components/MainTopPagePC/index.jsx",
-                                                            lineNumber: 98,
+                                                            lineNumber: 100,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Span11, {
                                                             children: spanText4
                                                         }, void 0, false, {
                                                             fileName: "components/MainTopPagePC/index.jsx",
-                                                            lineNumber: 99,
+                                                            lineNumber: 101,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "components/MainTopPagePC/index.jsx",
-                                                    lineNumber: 97,
+                                                    lineNumber: 99,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "components/MainTopPagePC/index.jsx",
-                                            lineNumber: 95,
+                                            lineNumber: 97,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexRow3, {
@@ -31078,20 +31081,20 @@ function MainTopPagePC(props) {
                                                     src: "/img/check-24@2x.svg"
                                                 }, void 0, false, {
                                                     fileName: "components/MainTopPagePC/index.jsx",
-                                                    lineNumber: 103,
+                                                    lineNumber: 105,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4811, {
                                                     children: sdGothicNeoBold4811
                                                 }, void 0, false, {
                                                     fileName: "components/MainTopPagePC/index.jsx",
-                                                    lineNumber: 104,
+                                                    lineNumber: 106,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "components/MainTopPagePC/index.jsx",
-                                            lineNumber: 102,
+                                            lineNumber: 104,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexRow3, {
@@ -31100,32 +31103,32 @@ function MainTopPagePC(props) {
                                                     src: "/img/check-24@2x.svg"
                                                 }, void 0, false, {
                                                     fileName: "components/MainTopPagePC/index.jsx",
-                                                    lineNumber: 107,
+                                                    lineNumber: 109,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4811, {
                                                     children: sdGothicNeoBold4812
                                                 }, void 0, false, {
                                                     fileName: "components/MainTopPagePC/index.jsx",
-                                                    lineNumber: 108,
+                                                    lineNumber: 110,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "components/MainTopPagePC/index.jsx",
-                                            lineNumber: 106,
+                                            lineNumber: 108,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 92,
+                                    lineNumber: 94,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 90,
+                            lineNumber: 92,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(OverlapGroup1, {
@@ -31139,7 +31142,7 @@ function MainTopPagePC(props) {
                                         children: spanText5
                                     }, void 0, false, {
                                         fileName: "components/MainTopPagePC/index.jsx",
-                                        lineNumber: 114,
+                                        lineNumber: 116,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -31147,25 +31150,25 @@ function MainTopPagePC(props) {
                                         children: spanText6
                                     }, void 0, false, {
                                         fileName: "components/MainTopPagePC/index.jsx",
-                                        lineNumber: 115,
+                                        lineNumber: 117,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "components/MainTopPagePC/index.jsx",
-                                lineNumber: 113,
+                                lineNumber: 115,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 112,
+                            lineNumber: 114,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4812, {
                             children: sdGothicNeoBold4813
                         }, void 0, false, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 118,
+                            lineNumber: 120,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4813, {
@@ -31174,20 +31177,20 @@ function MainTopPagePC(props) {
                                     children: spanText7
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 120,
+                                    lineNumber: 122,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Span13, {
                                     children: spanText8
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 121,
+                                    lineNumber: 123,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 119,
+                            lineNumber: 121,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(PhotoRoundContainer, {
@@ -31196,20 +31199,20 @@ function MainTopPagePC(props) {
                                     src: hj_Photo_Round
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 124,
+                                    lineNumber: 126,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SHPhotoRound, {
                                     src: sh_Photo_Round
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 125,
+                                    lineNumber: 127,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 123,
+                            lineNumber: 125,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SdGothicNeoboldContainer, {
@@ -31218,20 +31221,20 @@ function MainTopPagePC(props) {
                                     children: sdGothicNeoBold4814
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 128,
+                                    lineNumber: 130,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4815, {
                                     children: sdGothicNeoBold4815
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 129,
+                                    lineNumber: 131,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 127,
+                            lineNumber: 129,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SdGothicNeoboldContainer1, {
@@ -31240,20 +31243,20 @@ function MainTopPagePC(props) {
                                     children: sdGothicNeoBold4816
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 132,
+                                    lineNumber: 134,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4817, {
                                     children: sdGothicNeoBold4817
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 133,
+                                    lineNumber: 135,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 131,
+                            lineNumber: 133,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SdGothicNeoboldContainer2, {
@@ -31262,44 +31265,44 @@ function MainTopPagePC(props) {
                                     children: sdGothicNeoBold4818
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 136,
+                                    lineNumber: 138,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4817, {
                                     children: sdGothicNeoBold4819
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC/index.jsx",
-                                    lineNumber: 137,
+                                    lineNumber: 139,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 135,
+                            lineNumber: 137,
                             columnNumber: 11
                         }, this),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Footer, {
-                            src: footer
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerBigDefault.default), {
+                            src: footerBig
                         }, void 0, false, {
                             fileName: "components/MainTopPagePC/index.jsx",
-                            lineNumber: 139,
+                            lineNumber: 141,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "components/MainTopPagePC/index.jsx",
-                    lineNumber: 84,
+                    lineNumber: 86,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "components/MainTopPagePC/index.jsx",
-            lineNumber: 63,
+            lineNumber: 65,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "components/MainTopPagePC/index.jsx",
-        lineNumber: 62,
+        lineNumber: 64,
         columnNumber: 5
     }, this);
 }
@@ -31349,7 +31352,7 @@ const SDGothicNeoBold481 = (0, _styledComponentsDefault.default).div`
   ${(0, _styledMixins.ApplesdgothicneoBoldBlack40px)}
   width: 486px;
   min-height: 104px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 _c6 = SDGothicNeoBold481;
@@ -31373,7 +31376,7 @@ const SDGothicNeoBold483 = (0, _styledComponentsDefault.default).div`
   width: 486px;
   min-height: 104px;
   margin-top: 277px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 _c9 = SDGothicNeoBold483;
@@ -31407,7 +31410,7 @@ const SDGothicNeoBold485 = (0, _styledComponentsDefault.default).div`
   margin-top: 257px;
   margin-right: 18px;
   min-width: 366px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 _c13 = SDGothicNeoBold485;
@@ -31507,7 +31510,7 @@ const SDGothicNeoBold489 = (0, _styledComponentsDefault.default).div`
   width: 588px;
   min-height: 104px;
   margin-top: 20px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 _c27 = SDGothicNeoBold489;
@@ -31675,9 +31678,8 @@ const Footer = (0, _styledComponentsDefault.default).img`
   height: 302px;
   margin-top: 221px;
 `;
-_c47 = Footer;
 exports.default = MainTopPagePC;
-var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8, _c9, _c10, _c11, _c12, _c13, _c14, _c15, _c16, _c17, _c18, _c19, _c20, _c21, _c22, _c23, _c24, _c25, _c26, _c27, _c28, _c29, _c30, _c31, _c32, _c33, _c34, _c35, _c36, _c37, _c38, _c39, _c40, _c41, _c42, _c43, _c44, _c45, _c46, _c47;
+var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8, _c9, _c10, _c11, _c12, _c13, _c14, _c15, _c16, _c17, _c18, _c19, _c20, _c21, _c22, _c23, _c24, _c25, _c26, _c27, _c28, _c29, _c30, _c31, _c32, _c33, _c34, _c35, _c36, _c37, _c38, _c39, _c40, _c41, _c42, _c43, _c44, _c45, _c46;
 $RefreshReg$(_c, "MainTopPagePC");
 $RefreshReg$(_c1, "OverlapGroup");
 $RefreshReg$(_c2, "Image");
@@ -31725,14 +31727,13 @@ $RefreshReg$(_c43, "SdGothicNeoboldContainer1");
 $RefreshReg$(_c44, "SdGothicNeoboldContainer2");
 $RefreshReg$(_c45, "SDGothicNeoBold4816");
 $RefreshReg$(_c46, "SDGothicNeoBold4817");
-$RefreshReg$(_c47, "Footer");
 
   $parcel$ReactRefreshHelpers$f413.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../GNB22":"6cH9p","styled-components":"1U3k6","../../styledMixins":"dUZFz","./MainTopPagePC.css":"7Ut17","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"6cH9p":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../GNB22":"6cH9p","styled-components":"1U3k6","../../styledMixins":"dUZFz","./MainTopPagePC.css":"7Ut17","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../FooterBig":"CeC9S"}],"6cH9p":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$e887 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -31763,15 +31764,30 @@ function GNB22(props) {
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Frame1, {
                 className: "frame-1",
                 children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _viewDefault.default), {
-                        children: view1Props.children
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                        href: "https://www.rocketpunch.com/companies/postlab/jobs",
+                        target: "_blank",
+                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _viewDefault.default), {
+                            children: view1Props.children
+                        }, void 0, false, {
+                            fileName: "components/GNB22/index.jsx",
+                            lineNumber: 14,
+                            columnNumber: 86
+                        }, this)
                     }, void 0, false, {
                         fileName: "components/GNB22/index.jsx",
                         lineNumber: 14,
                         columnNumber: 9
                     }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _viewDefault.default), {
-                        children: view2Props.children
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                        href: "mailto:contact@postlabs.io",
+                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _viewDefault.default), {
+                            children: view2Props.children
+                        }, void 0, false, {
+                            fileName: "components/GNB22/index.jsx",
+                            lineNumber: 15,
+                            columnNumber: 46
+                        }, this)
                     }, void 0, false, {
                         fileName: "components/GNB22/index.jsx",
                         lineNumber: 15,
@@ -33730,7 +33746,204 @@ const SfprodisplayRegularNormalGunsmoke13 = (0, _styledComponents.css)`
   font-style: normal;
 `;
 
-},{"styled-components":"1U3k6","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"7Ut17":[function() {},{}],"entLC":[function(require,module,exports) {
+},{"styled-components":"1U3k6","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"7Ut17":[function() {},{}],"CeC9S":[function(require,module,exports) {
+var $parcel$ReactRefreshHelpers$adb0 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$adb0.prelude(module);
+
+try {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _reactDefault = parcelHelpers.interopDefault(_react);
+var _styledComponents = require("styled-components");
+var _styledComponentsDefault = parcelHelpers.interopDefault(_styledComponents);
+var _styledMixins = require("../../styledMixins");
+function Footer(props) {
+    const { sdGothicNeoBold161 , spanText1 , spanText2 , spanText3 , spanText4 , spanText5 , spanText6 , spanText7 , spanText8 , spanText9 , sdGothicNeoBold162 , sdGothicNeoBold163 ,  } = props;
+    console.log(sdGothicNeoBold161);
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Footer1, {
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(View, {
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold16, {
+                    children: "포스트랩"
+                }, void 0, false, {
+                    fileName: "components/FooterBig/index.jsx",
+                    lineNumber: 27,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "components/FooterBig/index.jsx",
+                lineNumber: 26,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(View1, {
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold161, {
+                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Span07, {
+                        children: "서울시 강남구 테헤란로 8길 21 화인강남빌딩 10층 B04호"
+                    }, void 0, false, {
+                        fileName: "components/FooterBig/index.jsx",
+                        lineNumber: 31,
+                        columnNumber: 11
+                    }, this)
+                }, void 0, false, {
+                    fileName: "components/FooterBig/index.jsx",
+                    lineNumber: 30,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "components/FooterBig/index.jsx",
+                lineNumber: 29,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(View2, {
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold162, {
+                    children: "contact@postlabs.io"
+                }, void 0, false, {
+                    fileName: "components/FooterBig/index.jsx",
+                    lineNumber: 35,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "components/FooterBig/index.jsx",
+                lineNumber: 34,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(View3, {
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold163, {
+                    children: "\xa9 2022. All rights reserved by POSTLAB."
+                }, void 0, false, {
+                    fileName: "components/FooterBig/index.jsx",
+                    lineNumber: 38,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "components/FooterBig/index.jsx",
+                lineNumber: 37,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "components/FooterBig/index.jsx",
+        lineNumber: 24,
+        columnNumber: 5
+    }, this);
+}
+_c = Footer;
+const Footer1 = (0, _styledComponentsDefault.default).div`
+  display: flex;
+  margin-top: 221px;
+  flex-direction: column;
+  width: 1920px;
+  height: 302px;
+  align-items: flex-start;
+  padding: 80px 20px 100px;
+  background-color: var(--black);
+`;
+_c1 = Footer1;
+const View = (0, _styledComponentsDefault.default).div`
+  display: flex;
+  width: 335px;
+  height: min-content;
+  align-items: flex-start;
+  margin-left: 350px;
+`;
+_c2 = View;
+const SDGothicNeoBold16 = (0, _styledComponentsDefault.default).div`
+  margin-top: -1px;
+  font-family: var(--font-family-apple_sd_gothic_neo-bold);
+  font-weight: 700;
+  color: var(--white);
+  font-size: var(--font-size-xs);
+  letter-spacing: -0.6px;
+  line-height: 24px;
+  white-space: nowrap;
+`;
+_c3 = SDGothicNeoBold16;
+const View1 = (0, _styledComponentsDefault.default).div`
+  display: flex;
+  width: 335px;
+  height: min-content;
+  align-items: flex-start;
+  margin-left: 350px;
+  padding: 12px 0px 0px;
+`;
+_c4 = View1;
+const SDGothicNeoBold161 = (0, _styledComponentsDefault.default).p`
+  ${(0, _styledMixins.ApplesdgothicneoRegularNormalWhite1)}
+  margin-top: -1px;
+  line-height: 20px;
+  white-space: nowrap;
+`;
+_c5 = SDGothicNeoBold161;
+const Span07 = (0, _styledComponentsDefault.default).span`
+  ${(0, _styledMixins.ApplesdgothicneoRegularNormalWhite1)}
+  letter-spacing: -0.20px;
+`;
+_c6 = Span07;
+const Span17 = (0, _styledComponentsDefault.default).span`
+  ${(0, _styledMixins.SfprodisplayRegularNormalWhite13px)}
+  letter-spacing: 0;
+`;
+const View2 = (0, _styledComponentsDefault.default).div`
+  display: flex;
+  width: 335px;
+  height: min-content;
+  align-items: flex-start;
+  padding: 2px 0px 0px;
+  margin-left: 350px;
+`;
+_c7 = View2;
+const SDGothicNeoBold162 = (0, _styledComponentsDefault.default).div`
+  ${(0, _styledMixins.SfprodisplayRegularNormalWhite13px)}
+  margin-top: -1px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+`;
+_c8 = SDGothicNeoBold162;
+const View3 = (0, _styledComponentsDefault.default).div`
+  display: flex;
+  width: 335px;
+  height: min-content;
+  align-items: flex-start;
+  padding: 24px 0px 0px;
+  margin-left: 350px;
+`;
+_c9 = View3;
+const SDGothicNeoBold163 = (0, _styledComponentsDefault.default).p`
+  margin-top: -1px;
+  font-family: var(--font-family-sf_pro_display-regular);
+  font-weight: 400;
+  color: #999999;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+`;
+_c10 = SDGothicNeoBold163;
+exports.default = Footer;
+var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8, _c9, _c10;
+$RefreshReg$(_c, "Footer");
+$RefreshReg$(_c1, "Footer1");
+$RefreshReg$(_c2, "View");
+$RefreshReg$(_c3, "SDGothicNeoBold16");
+$RefreshReg$(_c4, "View1");
+$RefreshReg$(_c5, "SDGothicNeoBold161");
+$RefreshReg$(_c6, "Span07");
+$RefreshReg$(_c7, "View2");
+$RefreshReg$(_c8, "SDGothicNeoBold162");
+$RefreshReg$(_c9, "View3");
+$RefreshReg$(_c10, "SDGothicNeoBold163");
+
+  $parcel$ReactRefreshHelpers$adb0.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","styled-components":"1U3k6","../../styledMixins":"dUZFz","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"entLC":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$15dc = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -34895,8 +35108,10 @@ var _styledComponents = require("styled-components");
 var _styledComponentsDefault = parcelHelpers.interopDefault(_styledComponents);
 var _styledMixins = require("../../styledMixins");
 var _mainTopPagePC2Css = require("./MainTopPagePC2.css");
+var _footerBig = require("../FooterBig");
+var _footerBigDefault = parcelHelpers.interopDefault(_footerBig);
 function MainTopPagePC2(props) {
-    const { overlapGroup , sdGothicNeoBold481 , sdGothicNeoBold482 , sdGothicNeoBold483 , image3 , sdGothicNeoBold484 , sdGothicNeoBold485 , image2 , sdGothicNeoBold486 , sdGothicNeoBold487 , image4 , sdGothicNeoBold488 , spanText1 , spanText2 , sdGothicNeoBold489 , sdGothicNeoBold4810 , spanText3 , spanText4 , sdGothicNeoBold4811 , sdGothicNeoBold4812 , overlapGroup1 , spanText5 , spanText6 , sdGothicNeoBold4813 , spanText7 , spanText8 , hj_Photo_Round , sh_Photo_Round , sdGothicNeoBold4814 , sdGothicNeoBold4815 , sdGothicNeoBold4816 , sdGothicNeoBold4817 , sdGothicNeoBold4818 , sdGothicNeoBold4819 , footer , gNB22Props ,  } = props;
+    const { overlapGroup , sdGothicNeoBold481 , sdGothicNeoBold482 , sdGothicNeoBold483 , image3 , sdGothicNeoBold484 , sdGothicNeoBold485 , image2 , sdGothicNeoBold486 , sdGothicNeoBold487 , image4 , sdGothicNeoBold488 , spanText1 , spanText2 , sdGothicNeoBold489 , sdGothicNeoBold4810 , spanText3 , spanText4 , sdGothicNeoBold4811 , sdGothicNeoBold4812 , overlapGroup1 , spanText5 , spanText6 , sdGothicNeoBold4813 , spanText7 , spanText8 , hj_Photo_Round , sh_Photo_Round , sdGothicNeoBold4814 , sdGothicNeoBold4815 , sdGothicNeoBold4816 , sdGothicNeoBold4817 , sdGothicNeoBold4818 , sdGothicNeoBold4819 , footer , footerBig , gNB22Props ,  } = props;
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "container-center-horizontal",
         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34913,20 +35128,20 @@ function MainTopPagePC2(props) {
                             view2Props: gNB22Props.view2Props
                         }, void 0, false, {
                             fileName: "components/MainTopPagePC2/index.jsx",
-                            lineNumber: 65,
+                            lineNumber: 67,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold48, {
                             children: sdGothicNeoBold481
                         }, void 0, false, {
                             fileName: "components/MainTopPagePC2/index.jsx",
-                            lineNumber: 70,
+                            lineNumber: 72,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "components/MainTopPagePC2/index.jsx",
-                    lineNumber: 64,
+                    lineNumber: 66,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexRow, {
@@ -34937,41 +35152,41 @@ function MainTopPagePC2(props) {
                                     children: sdGothicNeoBold482
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 74,
+                                    lineNumber: 76,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold482, {
                                     children: sdGothicNeoBold483
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 75,
+                                    lineNumber: 77,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Image3, {
                                     src: image3
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 76,
+                                    lineNumber: 78,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold483, {
                                     children: sdGothicNeoBold484
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 77,
+                                    lineNumber: 79,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold484, {
                                     children: sdGothicNeoBold485
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 78,
+                                    lineNumber: 80,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC2/index.jsx",
-                            lineNumber: 73,
+                            lineNumber: 75,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexCol1, {
@@ -34980,40 +35195,40 @@ function MainTopPagePC2(props) {
                                     src: image2
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 81,
+                                    lineNumber: 83,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold485, {
                                     children: sdGothicNeoBold486
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 82,
+                                    lineNumber: 84,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold484, {
                                     children: sdGothicNeoBold487
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 83,
+                                    lineNumber: 85,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Image4, {
                                     src: image4
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 84,
+                                    lineNumber: 86,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC2/index.jsx",
-                            lineNumber: 80,
+                            lineNumber: 82,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "components/MainTopPagePC2/index.jsx",
-                    lineNumber: 72,
+                    lineNumber: 74,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexCol2, {
@@ -35022,7 +35237,7 @@ function MainTopPagePC2(props) {
                             children: sdGothicNeoBold488
                         }, void 0, false, {
                             fileName: "components/MainTopPagePC2/index.jsx",
-                            lineNumber: 88,
+                            lineNumber: 90,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold487, {
@@ -35031,20 +35246,20 @@ function MainTopPagePC2(props) {
                                     children: spanText1
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 90,
+                                    lineNumber: 92,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Span18, {
                                     children: spanText2
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 91,
+                                    lineNumber: 93,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC2/index.jsx",
-                            lineNumber: 89,
+                            lineNumber: 91,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexRow1, {
@@ -35053,7 +35268,7 @@ function MainTopPagePC2(props) {
                                     src: "/img/mock-up-1@1x.svg"
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 94,
+                                    lineNumber: 96,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexCol3, {
@@ -35062,14 +35277,14 @@ function MainTopPagePC2(props) {
                                             children: sdGothicNeoBold489
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 96,
+                                            lineNumber: 98,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold489, {
                                             children: sdGothicNeoBold4810
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 97,
+                                            lineNumber: 99,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexRow2, {
@@ -35078,7 +35293,7 @@ function MainTopPagePC2(props) {
                                                     src: "/img/check-24@2x.svg"
                                                 }, void 0, false, {
                                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                                    lineNumber: 99,
+                                                    lineNumber: 101,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4810, {
@@ -35087,26 +35302,26 @@ function MainTopPagePC2(props) {
                                                             children: spanText3
                                                         }, void 0, false, {
                                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                                            lineNumber: 101,
+                                                            lineNumber: 103,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Span19, {
                                                             children: spanText4
                                                         }, void 0, false, {
                                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                                            lineNumber: 102,
+                                                            lineNumber: 104,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                                    lineNumber: 100,
+                                                    lineNumber: 102,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 98,
+                                            lineNumber: 100,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexRow3, {
@@ -35115,20 +35330,20 @@ function MainTopPagePC2(props) {
                                                     src: "/img/check-24@2x.svg"
                                                 }, void 0, false, {
                                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                                    lineNumber: 106,
+                                                    lineNumber: 108,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4811, {
                                                     children: sdGothicNeoBold4811
                                                 }, void 0, false, {
                                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                                    lineNumber: 107,
+                                                    lineNumber: 109,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 105,
+                                            lineNumber: 107,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexRow3, {
@@ -35137,32 +35352,32 @@ function MainTopPagePC2(props) {
                                                     src: "/img/check-24@2x.svg"
                                                 }, void 0, false, {
                                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                                    lineNumber: 110,
+                                                    lineNumber: 112,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4811, {
                                                     children: sdGothicNeoBold4812
                                                 }, void 0, false, {
                                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                                    lineNumber: 111,
+                                                    lineNumber: 113,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 109,
+                                            lineNumber: 111,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 95,
+                                    lineNumber: 97,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC2/index.jsx",
-                            lineNumber: 93,
+                            lineNumber: 95,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FlexCol4, {
@@ -35178,7 +35393,7 @@ function MainTopPagePC2(props) {
                                                 children: spanText5
                                             }, void 0, false, {
                                                 fileName: "components/MainTopPagePC2/index.jsx",
-                                                lineNumber: 118,
+                                                lineNumber: 120,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -35186,25 +35401,25 @@ function MainTopPagePC2(props) {
                                                 children: spanText6
                                             }, void 0, false, {
                                                 fileName: "components/MainTopPagePC2/index.jsx",
-                                                lineNumber: 119,
+                                                lineNumber: 121,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "components/MainTopPagePC2/index.jsx",
-                                        lineNumber: 117,
+                                        lineNumber: 119,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 116,
+                                    lineNumber: 118,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4812, {
                                     children: sdGothicNeoBold4813
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 122,
+                                    lineNumber: 124,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4813, {
@@ -35213,20 +35428,20 @@ function MainTopPagePC2(props) {
                                             children: spanText7
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 124,
+                                            lineNumber: 126,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Span111, {
                                             children: spanText8
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 125,
+                                            lineNumber: 127,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 123,
+                                    lineNumber: 125,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(PhotoRoundContainer, {
@@ -35235,20 +35450,20 @@ function MainTopPagePC2(props) {
                                             src: hj_Photo_Round
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 128,
+                                            lineNumber: 130,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SHPhotoRound, {
                                             src: sh_Photo_Round
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 129,
+                                            lineNumber: 131,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 127,
+                                    lineNumber: 129,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SdGothicNeoboldContainer, {
@@ -35257,20 +35472,20 @@ function MainTopPagePC2(props) {
                                             children: sdGothicNeoBold4814
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 132,
+                                            lineNumber: 134,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4815, {
                                             children: sdGothicNeoBold4815
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 133,
+                                            lineNumber: 135,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 131,
+                                    lineNumber: 133,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SdGothicNeoboldContainer1, {
@@ -35279,20 +35494,20 @@ function MainTopPagePC2(props) {
                                             children: sdGothicNeoBold4816
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 136,
+                                            lineNumber: 138,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4817, {
                                             children: sdGothicNeoBold4817
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 137,
+                                            lineNumber: 139,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 135,
+                                    lineNumber: 137,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SdGothicNeoboldContainer2, {
@@ -35301,50 +35516,50 @@ function MainTopPagePC2(props) {
                                             children: sdGothicNeoBold4818
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 140,
+                                            lineNumber: 142,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(SDGothicNeoBold4817, {
                                             children: sdGothicNeoBold4819
                                         }, void 0, false, {
                                             fileName: "components/MainTopPagePC2/index.jsx",
-                                            lineNumber: 141,
+                                            lineNumber: 143,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 139,
+                                    lineNumber: 141,
                                     columnNumber: 13
                                 }, this),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Footer, {
-                                    src: footer
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerBigDefault.default), {
+                                    src: footerBig
                                 }, void 0, false, {
                                     fileName: "components/MainTopPagePC2/index.jsx",
-                                    lineNumber: 143,
+                                    lineNumber: 146,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/MainTopPagePC2/index.jsx",
-                            lineNumber: 115,
+                            lineNumber: 117,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "components/MainTopPagePC2/index.jsx",
-                    lineNumber: 87,
+                    lineNumber: 89,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "components/MainTopPagePC2/index.jsx",
-            lineNumber: 63,
+            lineNumber: 65,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "components/MainTopPagePC2/index.jsx",
-        lineNumber: 62,
+        lineNumber: 64,
         columnNumber: 5
     }, this);
 }
@@ -35390,7 +35605,7 @@ const SDGothicNeoBold481 = (0, _styledComponentsDefault.default).div`
   ${(0, _styledMixins.ApplesdgothicneoBoldBlack40px)}
   width: 486px;
   min-height: 104px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 _c5 = SDGothicNeoBold481;
@@ -35415,7 +35630,7 @@ const SDGothicNeoBold483 = (0, _styledComponentsDefault.default).div`
   width: 486px;
   min-height: 104px;
   margin-top: 277px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 _c8 = SDGothicNeoBold483;
@@ -35450,7 +35665,7 @@ const SDGothicNeoBold485 = (0, _styledComponentsDefault.default).div`
   margin-top: 257px;
   margin-right: 18px;
   min-width: 366px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 _c12 = SDGothicNeoBold485;
@@ -35551,7 +35766,7 @@ const SDGothicNeoBold489 = (0, _styledComponentsDefault.default).div`
   width: 588px;
   min-height: 104px;
   margin-top: 20px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 _c26 = SDGothicNeoBold489;
@@ -35728,9 +35943,8 @@ const Footer = (0, _styledComponentsDefault.default).img`
   height: 302px;
   margin-top: 221px;
 `;
-_c47 = Footer;
 exports.default = MainTopPagePC2;
-var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8, _c9, _c10, _c11, _c12, _c13, _c14, _c15, _c16, _c17, _c18, _c19, _c20, _c21, _c22, _c23, _c24, _c25, _c26, _c27, _c28, _c29, _c30, _c31, _c32, _c33, _c34, _c35, _c36, _c37, _c38, _c39, _c40, _c41, _c42, _c43, _c44, _c45, _c46, _c47;
+var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8, _c9, _c10, _c11, _c12, _c13, _c14, _c15, _c16, _c17, _c18, _c19, _c20, _c21, _c22, _c23, _c24, _c25, _c26, _c27, _c28, _c29, _c30, _c31, _c32, _c33, _c34, _c35, _c36, _c37, _c38, _c39, _c40, _c41, _c42, _c43, _c44, _c45, _c46;
 $RefreshReg$(_c, "MainTopPagePC2");
 $RefreshReg$(_c1, "OverlapGroup");
 $RefreshReg$(_c2, "SDGothicNeoBold48");
@@ -35778,14 +35992,13 @@ $RefreshReg$(_c43, "SdGothicNeoboldContainer1");
 $RefreshReg$(_c44, "SdGothicNeoboldContainer2");
 $RefreshReg$(_c45, "SDGothicNeoBold4816");
 $RefreshReg$(_c46, "SDGothicNeoBold4817");
-$RefreshReg$(_c47, "Footer");
 
   $parcel$ReactRefreshHelpers$4e57.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../GNB22":"6cH9p","styled-components":"1U3k6","../../styledMixins":"dUZFz","./MainTopPagePC2.css":"b7r0a","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b7r0a":[function() {},{}],"1LQMm":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../GNB22":"6cH9p","styled-components":"1U3k6","../../styledMixins":"dUZFz","./MainTopPagePC2.css":"b7r0a","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../FooterBig":"CeC9S"}],"b7r0a":[function() {},{}],"1LQMm":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$968a = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;

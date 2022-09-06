@@ -17,6 +17,7 @@ import {
   ApplesdgothicneoBoldBlack24px,
 } from "../../styledMixins";
 import "./MainTopPagePC2.css";
+import FooterBig from "../FooterBig";
 
 function MainTopPagePC2(props) {
   const {
@@ -55,6 +56,7 @@ function MainTopPagePC2(props) {
     sdGothicNeoBold4818,
     sdGothicNeoBold4819,
     footer,
+    footerBig,
     gNB22Props,
   } = props;
 
@@ -140,7 +142,8 @@ function MainTopPagePC2(props) {
               <SDGothicNeoBold4816>{sdGothicNeoBold4818}</SDGothicNeoBold4816>
               <SDGothicNeoBold4817>{sdGothicNeoBold4819}</SDGothicNeoBold4817>
             </SdGothicNeoboldContainer2>
-            <Footer src={footer} />
+            {/*<Footer src={footer} />*/}
+            <FooterBig src={footerBig} />
           </FlexCol4>
         </FlexCol2>
       </div>
@@ -189,7 +192,7 @@ const SDGothicNeoBold481 = styled.div`
   ${ApplesdgothicneoBoldBlack40px}
   width: 486px;
   min-height: 104px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 
@@ -214,7 +217,7 @@ const SDGothicNeoBold483 = styled.div`
   width: 486px;
   min-height: 104px;
   margin-top: 277px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 
@@ -249,7 +252,7 @@ const SDGothicNeoBold485 = styled.div`
   margin-top: 257px;
   margin-right: 18px;
   min-width: 366px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 
@@ -350,7 +353,7 @@ const SDGothicNeoBold489 = styled.div`
   width: 588px;
   min-height: 104px;
   margin-top: 20px;
-  letter-spacing: -1px;
+  letter-spacing: -4px;
   line-height: 52px;
 `;
 

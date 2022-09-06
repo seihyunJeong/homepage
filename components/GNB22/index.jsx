@@ -11,8 +11,8 @@ function GNB22(props) {
     <GNB className={`gnb ${className || ""}`}>
       <LogoPostlab />
       <Frame1 className="frame-1">
-        <View>{view1Props.children}</View>
-        <View>{view2Props.children}</View>
+        <a href="https://www.rocketpunch.com/companies/postlab/jobs" target="_blank"><View>{view1Props.children}</View></a>
+        <a href="mailto:contact@postlabs.io"><View>{view2Props.children}</View></a>
       </Frame1>
     </GNB>
   );
